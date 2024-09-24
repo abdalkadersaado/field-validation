@@ -1,0 +1,22 @@
+{
+    "register": {
+      "title": "إنشاء حساب جديد",
+      "name": "الاسم الكامل",
+      "namePlaceholder": "أدخل اسمك الكامل",
+      "email": "البريد الإلكتروني",
+      "emailPlaceholder": "أدخل بريدك الإلكتروني",
+      "password": "كلمة المرور",
+      "passwordPlaceholder": "أدخل كلمة المرور",
+      "confirmPassword": "تأكيد كلمة المرور",
+      "confirmPasswordPlaceholder": "أعد إدخال كلمة المرور",
+      "submit": "إنشاء حساب",
+      "success": "تم إنشاء الحساب بنجاح!"
+    },
+    "validation": {
+      "required": "هذا الحقل مطلوب.",
+      "email": "البريد الإلكتروني غير صالح.",
+      "min": "يجب أن يحتوي هذا الحقل على الأقل {length} حروف.",
+      "confirmed": "يجب أن تتطابق الحقول."
+    }
+  }
+  

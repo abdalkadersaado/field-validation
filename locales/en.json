@@ -1,0 +1,22 @@
+{
+    "register": {
+      "title": "Create a New Account",
+      "name": "Full Name",
+      "namePlaceholder": "Enter your full name",
+      "email": "Email Address",
+      "emailPlaceholder": "Enter your email",
+      "password": "Password",
+      "passwordPlaceholder": "Enter your password",
+      "confirmPassword": "Confirm Password",
+      "confirmPasswordPlaceholder": "Re-enter your password",
+      "submit": "Create Account",
+      "success": "Account created successfully!"
+    },
+    "validation": {
+      "required": "This field is required.",
+      "email": "Invalid email address.",
+      "min": "This field must be at least {length} characters.",
+      "confirmed": "The fields must match."
+    }
+  }
+  
